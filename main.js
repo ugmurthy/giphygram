@@ -1,5 +1,5 @@
 // Progressive enhancement
-//
+// Added a comment line 11/Jul/2020
 if (navigator.serviceWorker) {
     // REgister SW
     navigator.serviceWorker.register('sw.js').catch(console.error);
